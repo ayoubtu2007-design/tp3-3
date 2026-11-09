@@ -6,4 +6,5 @@ valeur=prix*quantite
 print("reference :",ref)
 print("designation :",designation)
 print("prix unitaire :",prix,"DT")
+print("quantite en stock :",quantite)
 print("valeur totale du stock :",valeur)
